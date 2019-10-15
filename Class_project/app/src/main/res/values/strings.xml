@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Class_project</string>
+    <string name="formName">Name</string>
+    <string name="formTime">Time</string>
+    <string-array name="City">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Mymensingh</item>
+        <item>Sylhet</item>
+        <item>Bogora</item>
+        <item>Khulna</item>
+    </string-array>
+    <string name="Seat_one">A1</string>
+    <string name="Seat_two">B2</string>
+    <string name="Seat_three">D1</string>
+</resources>
