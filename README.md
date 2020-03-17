@@ -1,3 +1,18 @@
-# FASTrans
-An android app built using Java to reserve transportation seats and generate virtual ticket for the user.
-The main idea of our project was to create an online application that will allow the user to book the ticket of desired vehicle on desired destination in a selected date. All it requires is to provide the necessary information of the journey and the app will fetch information about available vehicles with available seat information.
+#Project: Transport Reservation System 
+
+Group Members: 
+      Md. Wasiul Haque (180042110) 
+      Sadman Sadaat (180042126) 
+      Jisan Anam (180042129) 
+Project Details: 
+ There will be an android based application written using programming  language JAVA. The application will have the following features: 
+                  ✓ User will select his/her departing place, destination, time and date of 
+                    departure, kind of transportation is preferred. 
+                  ✓ After giving the required information, the user will get to see a detailed list of 
+                    available transportations with the operator names, it’s departing place and 
+                    time as well the number and positions of the available seats. 
+                  ✓ The user then can select any particular operator from that list and select any 
+                    particular number of seats of specific location and proceed to the payment 
+                    section 
+                  ✓ After completing the payment, a virtual ticket will be provided to the user 
+                    with all the detailed information about his/her reservation
