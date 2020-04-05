@@ -2,9 +2,9 @@
 
 ### Group Members:
 
-* Md. Wasiul Haque (180042110) 
-* Sadman Sadaat (180042126) 
- * Jishan Anam (180042129) 
+* Md. Wasiul Haque
+* Sadman Sadaat
+ * Jishan Anam 
       
 ### Project Details:
 
